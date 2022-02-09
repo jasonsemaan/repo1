@@ -1,10 +1,36 @@
-[{
+[
+  {
   "movie_id": 1,
-  "Title": "Titanic"
-}, {
+  "title": "Titanic",
+  "rating":"7.8",
+  "genre":"Romance/Drama",
+  "duration":"3h 14m",
+  "year":"1997"
+  "description":"Seventeen-year-old Rose hails from an aristocratic family and is set to be married. When she boards the Titanic, she meets Jack Dawson, an artist, and falls in love with him."
+  "cast":[{
+            "actor_name":"Leonardo DiCaprio",
+            "actor_image":"image.jpg"
+          },
+          {
+            "actor_name":"Kate Winslet",
+            "actor_image":"image.jpg"
+          }]
+  },
+ {
   "movie_id": 2,
-  "Title": "Taken"
-}, {
-  "movie_id": 3,
-  "Title": "The Transporter"
-}]
+  "title": "Casino Royale",
+  "rating":"8",
+  "genre":"Action/Adventure",
+  "duration":"2h 24m",
+  "year":"2006 "
+  "description":"Special Agent James Bond embarks on a mission to prevent Le Chiffre, a mob banker, from winning a high stakes poker game. He is aided by Vesper Lynd, a British Treasury agent."
+  "cast":[{
+            "actor_name":"Daniel Craig",
+            "actor_image":"image.jpg"
+          },
+          {
+            "actor_name":"Eva Green",
+            "actor_image":"image.jpg"
+          }]
+  }
+]

@@ -7,7 +7,7 @@
   "job_ar":"بلّاط",
   "location_en":"Beiruth",
   "location_ar":"بيروت",
-  "status":"Available"
+  "status":"Available",
   "rating":"4"
   },
  {
@@ -18,7 +18,7 @@
   "job_ar":"بلّاط",
   "location_en":"Zgharta",
   "location_ar":"زغرتا",
-  "status":"NotAvailable"
+  "status":"NotAvailable",
   "rating":"4"
   },
 {
@@ -29,7 +29,7 @@
   "job_ar":"بلّاط",
   "location_en":"Zgharta",
   "location_ar":"زغرتا",
-  "status":"Available"
+  "status":"Available",
   "rating":"4"
   },
 ]
